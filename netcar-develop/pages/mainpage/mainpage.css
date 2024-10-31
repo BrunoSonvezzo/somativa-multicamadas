@@ -1,0 +1,11 @@
+@import url("../../style.css");
+
+.card img {
+    width: 100% !important;
+    aspect-ratio: 3/2 !important;
+    object-fit: contain !important;
+    mix-blend-mode: darken !important;
+    background: blur(5px);
+    backdrop-filter: blur(2px);
+  }
+

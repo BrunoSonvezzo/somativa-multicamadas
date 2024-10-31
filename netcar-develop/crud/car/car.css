@@ -1,0 +1,16 @@
+@import url("../../style.css");
+
+.multiselect-container {
+    max-height: 200px;
+    overflow-y: auto;
+  }
+
+.td-item {
+  vertical-align: middle;
+}
+
+.td-item-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
